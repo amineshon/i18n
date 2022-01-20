@@ -1,0 +1,7 @@
+{
+  "title": "Welcome to react using react-i18next",
+  "description": {
+    "part1": "custom text",
+    "part2": "Change language to English"
+  }
+}
